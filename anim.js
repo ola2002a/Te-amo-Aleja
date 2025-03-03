@@ -121,8 +121,5 @@ window.onload = function () {
 setInterval(updateLyrics, 500);
 
 
-// Evita el desplazamiento con los dedos sin bloquear otras interacciones
-document.addEventListener("touchmove", (e) => {
-  e.preventDefault(); // Bloquea el desplazamiento
-}, { passive: false });
+
 
