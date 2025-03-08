@@ -82,7 +82,7 @@ var lyricsData = [
   { text: "Te amo demasiado, no me arrepiento de absolutamente nada contigo, gracias por todo", time: 237.5 },
   { text: "Mi amor por Dios, es mucho más grande", time: 240.7 },
   { text: "Por eso voy a demostrarte que cambiaré, para Dios, por Dios, para nosotros y por nosotros", time: 246.2 },
-  { text: "Respeto tu decisión y me arrepiento de que la hayas tomado por mis acciones, nunca debiste sentir lo que te cause, pero acá estoy con la frente en alto asumiendo mi error y apartándome del pecado que me hizo alejarte", time: 253 },
+  { text: "Te respeto y me arrepiento de que hayas tomado esa decisión por mis acciones, nunca debiste sentir lo que te cause, pero acá estoy con la frente en alto asumiendo mi error y apartándome del pecado que me hizo alejarte", time: 253 },
   { text: "No soy nadie para juzgar tus acciones y tus decisiones, te pido que me perdones por todo lo malo que te hice y exprese, así mismo te perdono por las cosas que hiciste mal", time: 264 },
   { text: "Reconciliémonos con Dios, Él es el único que conoce nuestros corazones, y el único que sabe nuestro futuro", time: 274 },
   { text: "2 Corintios 5:17-20", time: 281 },
